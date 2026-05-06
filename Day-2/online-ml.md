@@ -1,4 +1,4 @@
-# Online Machine Learning
+# 2. Online Machine Learning
 
 Online machine learning is a method of training machine learning models incrementally, allowing them to learn from data as it becomes available. This approach is particularly useful in scenarios where data is continuously generated, such as in streaming applications or when dealing with large datasets that cannot be processed all at once.
 
