@@ -30,7 +30,7 @@ After deploying the model, it is crucial to continuously test and monitor its pe
 Machine learning models require ongoing maintenance and optimization to ensure that they continue to perform well as new data becomes available and as the underlying patterns in the data may change over time. This involves regularly retraining the model with new data, fine-tuning the hyperparameters, and making necessary updates to the model architecture to improve its performance. For example, you may need to retrain the student performance prediction model periodically with new student data to ensure that it remains accurate and relevant.
 
 - Model Backup
-- Data Ba
+- Data Backup
 - Load Balancing
 - Model Versioning
 - Model Retraining
