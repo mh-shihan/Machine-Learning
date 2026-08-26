@@ -20,3 +20,4 @@ We need feature scaling because features in a dataset can have different ranges 
 ## Impact of Outliers
 
 ## When to use Standardization?
+![When to use Standardization](./images/when-to-use-standardization.png)
