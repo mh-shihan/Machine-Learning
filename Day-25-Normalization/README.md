@@ -28,3 +28,5 @@ Normalization is a technique often applied as part of data preparation for machi
 - Mean Normalization
 - Max absolute Scaling
 - Robust Scaling
+
+## Normalization VS Standardization
