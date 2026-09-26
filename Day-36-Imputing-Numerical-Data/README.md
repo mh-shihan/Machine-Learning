@@ -12,3 +12,8 @@ Filling missing values with an arbitrary value. This is useful when we want to t
 
 # Disadvantages of Arbitrary Value Imputation
 - Same ar imputing numerical data.
+
+# End of Distribution Imputation
+![alt text](image.png)
+
+# Random Sample Imputation
