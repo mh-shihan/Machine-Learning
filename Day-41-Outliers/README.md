@@ -21,6 +21,8 @@ Liner regression, Logistic regression, Adaboost, KNN and Deep learning are some 
 1. **Normal Distribution**: If the data is normally distributed, we can use the Z-score method to detect outliers. A Z-score greater than 3 or less than -3 indicates an outlier.
 **Equation**: μ + 3σ > X > μ - 3σ
 
+**Z-score Equation**: Z = (X - μ) / σ
+
 ![alt text](normal-distribution.png)
 
 2. **Skewed Distribution**: If the data is skewed, we can use the Interquartile Range (IQR) method to detect outliers. An outlier is defined as a data point that falls below Q1 - 1.5 * IQR or above Q3 + 1.5 * IQR.
