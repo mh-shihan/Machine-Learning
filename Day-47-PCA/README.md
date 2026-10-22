@@ -16,3 +16,21 @@ PCA is a technique which can transform a higher dimensional data into a lower di
 ## Why Variance or spread is important in PCA?
 ![alt text](images/image-3.png)
 ![alt text](images/image-4.png)
+
+## Covariance and Covariance Matrix
+### Covariance Formula
+Cov(X, Y) = Σ (Xi - Xmean)(Yi - Ymean) / (n - 1)
+
+![alt text](images/image-5.png)
+
+### Covariance Matrix
+![alt text](images/image-6.png)
+
+
+## Eigen Vectors & Eigen Values 
+Eigen vectors are the directions in which the data varies the most. Eigen values are the magnitudes of this variation.
+
+Eigenvalues are the values that represent the magnitude of the variance in the direction of the corresponding eigenvectors. In PCA, we compute the eigenvalues and eigenvectors of the covariance matrix to identify the principal components.
+
+### Read the following article to understand Eigen Vectors and Eigen Values in detail:
+[A geometric interpretation of the covariance matrix](https://www.visiondummy.com/2014/04/geometric-interpretation-covariance-matrix/)
