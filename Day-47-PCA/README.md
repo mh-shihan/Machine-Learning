@@ -34,3 +34,15 @@ Eigenvalues are the values that represent the magnitude of the variance in the d
 
 ### Read the following article to understand Eigen Vectors and Eigen Values in detail:
 [A geometric interpretation of the covariance matrix](https://www.visiondummy.com/2014/04/geometric-interpretation-covariance-matrix/)
+
+
+## Step by Step Solution of PCA
+1. Mean Centricg
+2. Covariance Matrix
+3. Eigen Vectors and Eigen Values
+4. After getting all principal components, we transform the original data into the new feature space.
+
+![alt text](images/image-7.png)
+
+## How to transform points
+![alt text](images/image-8.png)
