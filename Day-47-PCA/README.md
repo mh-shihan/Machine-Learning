@@ -46,3 +46,12 @@ Eigenvalues are the values that represent the magnitude of the variance in the d
 
 ## How to transform points
 ![alt text](images/image-8.png)
+
+### Dataset Link
+[Dataset Link](https://www.kaggle.com/c/digit-recognizer)
+
+## How to find optimum number of components
+![alt text](images/image-9.png)
+
+## When PCA does not work
+![alt text](images/image-10.png)
